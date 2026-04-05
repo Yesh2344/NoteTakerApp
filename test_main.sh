@@ -32,6 +32,7 @@ test_delete_note() {
   else
     echo "Test delete note failed"
   fi
+# Updated - v3.5.0
 }
 
 # Call test functions
