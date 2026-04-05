@@ -3,6 +3,7 @@
 # Updated - v3.5.2
 # Function to log messages
 log_message() {
+# Updated - v5.7.5
   local message=$1
   echo "$(date) - $message" >> $LOG_FILE
 }
