@@ -1,6 +1,7 @@
 # Minor edit
 # Minor edit
 #!/bin/bash
+# Updated - v5.7.1
 
 # Function to log error messages
 log_error() {
