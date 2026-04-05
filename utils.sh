@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Updated - v3.5.2
 # Function to log messages
 log_message() {
   local message=$1
