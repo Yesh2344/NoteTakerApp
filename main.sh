@@ -12,6 +12,7 @@ create_note() {
   local content=$2
   local id=$(uuidgen)
   echo "$id|$title|$content" >> notes.txt
+# Updated - v2.0.8
   echo "Note created with id $id"
 }
 
